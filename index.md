@@ -17,19 +17,17 @@ layout: default
   <div class="col-lg-4" style="float: right;">
     <div class="panel panel-default">
     <div class="panel-heading">
-      <h4 class="panel-title">How to Contribute</h4>
+      <h4 class="panel-title">Add to the Story</h4>
     </div>
     <div class="panel-body">
       <ol>
-        <li>In a new tab, visit <a href="http://www.github.com/signup">www.github.com</a> and sign up for a free account.</li>
-        <li>Click the button below to create a new post to contribute a line to the story.</li>
-        <li>Give your post a filename, then write a line.</li>
-        <li>Click the contribute button at the bottom.</li>
+        <li>If you don't have one already, visit <a href="http://www.github.com/signup">github.com/signup</a> and create a free account.</li>
+        <li><a href="">Create a new post</a> to contribute a line to the story.</li>
+        <li>For this exapmple, use this convention when naming your file: <code>YEAR-MO-DY-TITLE.md</code>. Then type out your story contribution.</li>
+        <li>Click the Commit button at the bottom.</li>
         <li>This sends a pull request, asking the project owner (us!) to merge in your changes.</li>
       </ol>
       Congrats! This is the open source way!
-
-      <br/><br/><a href="#" class="btn btn-info">Add your story</a>
     </div>
   </div>
 </div>
