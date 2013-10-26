@@ -23,7 +23,7 @@ layout: default
   <div class="col-lg-4" style="float: right;">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h4 class="panel-title">Add to the Story</h4>
+        <h4 class="panel-title" id="instructions">Add to the Story</h4>
       </div>
       <div class="panel-body">
         <ol>
