@@ -9,7 +9,8 @@ layout: default
 <div class="row">
   <div class="col-lg-7 stories">
     {% for post in site.posts reversed %}
-    {{ post.content }}<span class="story-author">Added by <a href="https://github.com/{{ post.author }}">@{{ post.author }}</a></span>
+    {{ post.content }} <small><a style="color:#ccc;" id="{{ post.id }}" href="#{{ post.id }}">#</a></small>
+    <span class="story-author">Added by <a href="https://github.com/{{ post.author }}">@{{ post.author }}</a></span>
     </span>
   {% endfor %}
   </div>
