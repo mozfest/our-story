@@ -12,3 +12,6 @@ ol, li {text-indent: 0px; margin-left: 12px; padding-left: 0px; padding-bottom: 
 .story-author { font-size: 10px; color: #acacac; }
 .story-author a { color: #acacac; }
 .story-auhtor a:hover { color: #333; }
+
+.halp {margin-top: 50px; border-top: 1px solid #eee; }
+.halp p {font-size: 1em; color: #aaa; }
