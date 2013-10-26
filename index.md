@@ -21,11 +21,19 @@ layout: default
     </div>
     <div class="panel-body">
       <ol>
-        <li>If you don't have one already, visit <a href="http://www.github.com/signup">github.com/signup</a> and create a free account.</li>
-        <li><a href="">Create a new post</a> to contribute a line to the story.</li>
-        <li>For this exapmple, use this convention when naming your file: <code>YEAR-MO-DY-TITLE.md</code>. Then type out your story contribution.</li>
-        <li>Click the Commit button at the bottom.</li>
-        <li>This sends a pull request, asking the project owner (us!) to merge in your changes.</li>
+        <li>If you don't have one already, visit <a href="http://www.github.com/signup" target="_blank">github.com/signup</a> and create a free account.</li>
+        <li><a href="https://github.com/mozfest/our-story/new/gh-pages/_posts" target="_blank">Create a new post</a> to contribute a line to the story.</li>
+        <li>For this example, use this convention when naming your file: <code>YEAR-MO-DY-TITLE.md</code>.
+        <li>Type out your story contribution. In this example, you'll may also want to begin your contribution with
+        <code><br />
+        ---<br />
+        author: [your GitHub username]<br />
+        ---<br />
+        </code>
+        so we can properly attribute your story. Here's <a href="https://raw.github.com/mozfest/our-story/gh-pages/_posts/2013-10-23-example-post.md">an example</a> to get you started.</li>
+        <li>Click the Submit button at the bottom.</li>
+        <li>This sends a pull request, asking the project owner to merge in your changes.</li>
+        <li>Once you get notification that it's been merged, you can read the story at <a href="http://mozfest.github.io/our-story/">mozfest.github.io/our-story</a>
       </ol>
       Congrats! This is the open source way!
     </div>
