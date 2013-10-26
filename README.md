@@ -8,7 +8,9 @@ http://mozfest.github.io
 
 ## Halp
 
-Looking for help? Feel free to [browse existing issues](https://github.com/mozfest/our-story/issues?state=open), or [open a new one](https://github.com/mozfest/our-story/issues/new)
+Looking for help? Feel free to [browse existing issues](https://github.com/mozfest/our-story/issues?state=open), or [open a new one](https://github.com/mozfest/our-story/issues/new).
+
+You may also find [the GitHub Glossary](https://help.github.com/articles/github-glossary) helpful for understanding some of the terminology.
 
 ## How
 
